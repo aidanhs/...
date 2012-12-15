@@ -4,6 +4,6 @@
 [submodule "loop"]
 	path = loop
 	url = https://github.com/aidanhs/....git
-[submodule "loop2"]
-	path = loop2
+[submodule "loop3"]
+	path = loop3
 	url = https://github.com/aidanhs/....git
