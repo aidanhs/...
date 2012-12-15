@@ -1,0 +1,9 @@
+[submodule "jquery"]
+	path = jquery
+	url = https://github.com/components/jquery.git
+[submodule "loop"]
+	path = loop
+	url = https://github.com/aidanhs/....git
+[submodule "loop2"]
+	path = loop2
+	url = https://github.com/aidanhs/....git
